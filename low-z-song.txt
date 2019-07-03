@@ -1,0 +1,15 @@
+#Index  Name       RA        Dec      Z     logMs_GAMA  r_satu  i_satu  BrightStar
+2   NGC3907         177.37548 -1.08661 0.019 10.927      False   True   False
+4   CGCG012-054     175.02673 -0.83771 0.020 10.527      False   True   False
+11  NGC4006         179.52417 -2.12000 0.020 11.356      True    True   False
+15  GAMA136845      176.29121 -1.76261 0.027 10.814      False   True   False
+17  IC0754          179.84817 -1.65458 0.020 11.080      True    True   True
+29  ARK326          177.40144 -1.45549 0.019 10.637      False   True   False
+34  CGCG006-005     137.17432  0.48470 0.019 10.492      False   True   True
+42  UGC04956        140.00904  1.03827 0.017 11.035      False   True   True
+45  IC1054          221.63018  1.27475 0.027 11.154      True    True   True
+93  CGCG020-021     222.48908  0.55829 0.040 11.050      False   True   False
+
+ 5  NGC5750         221.54637 -0.22297 0.006 10.528      False   True   False
+62  NGC2861         140.90210  2.13649 0.017 10.702      True    True   False
+95  VIIIZw449       220.59838  0.90798 0.033 11.144      False   True   False
